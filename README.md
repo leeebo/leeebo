@@ -1,6 +1,4 @@
-<h1 align="center">👋 leeebo</h1>
-
-## 🌱 Interesting things I’m exploring
+### 🌱 Interesting things I’m exploring
 
 1. **[ESP Vision Agent](https://github.com/espressif/esp-vision)** — Exploring how an Agent can grow with ESP Vision.<br>
    🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ **70%**
